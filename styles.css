@@ -1,0 +1,50 @@
+h1{
+    background-color: blue;
+    margin-top: 0;
+    text-align: center;
+}
+.box{
+    height: 450px;
+    width: 400px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+body{
+   
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    margin-top: 0;
+    width: 230px;
+    border-radius: 5px;
+    
+}
+p{
+    margin-bottom: 0;
+}
+div{
+    text-align: center;
+    background-color: aquamarine;
+}
+#choose{
+    margin-left: 40px; 
+}
+select{
+    border-radius: 5px;
+}
+button{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+#choose{
+font-weight: bold;
+}
+option{
+    font-weight: bold;
+}
+
